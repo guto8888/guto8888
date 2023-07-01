@@ -24,6 +24,7 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
 </div>
+<br>
 <div>
   ![Snake animation](https://github.com/guto8888/guto8888/blob/output/github-contribution-grid-snake.svg)
 </div>
